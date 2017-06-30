@@ -137,6 +137,7 @@
 				TargetAttributes = {
 					F859FB401D22750C00B52615 = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = F84JLF72PW;
 					};
 				};
 			};
@@ -339,6 +340,7 @@
 			baseConfigurationReference = 16271010AEC87A75D4504F79 /* Pods-RadarImage.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = F84JLF72PW;
 				INFOPLIST_FILE = RadarImage/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = at.arkulpa.RadarImage;
@@ -351,6 +353,7 @@
 			baseConfigurationReference = 6975848EB876D06AEA719D29 /* Pods-RadarImage.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = F84JLF72PW;
 				INFOPLIST_FILE = RadarImage/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = at.arkulpa.RadarImage;
